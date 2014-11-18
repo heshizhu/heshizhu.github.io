@@ -1,5 +1,5 @@
 name: Alex He Blog
-baseurl:
+baseurl: /
 destination: ./_site
 plugins: ./_plugins
 layouts: ./_layouts
