@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "何世柱"
-description              : "大数据知识工程"
+title                    : "Shizhu He (何世柱)"
+description              : "Research scientist in Institute of Automation, Chinese Academy of Sciences. Focusing on NLP, KG and LLM."
 repository               : "heshizhu/heshizhu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "何世柱"
+  name             : "Shizhu He (何世柱)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "中国科学院自动化研究所"
-  location         : "中国 北京"
-  employer         : "中国科学院自动化研究所"
+  bio              : "Institute of Automation, Chinese Academy of Sciences"
+  location         : "Beijing, China"
+  employer         : "Institute of Automation, Chinese Academy of Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zBPIt3QAAAAJ"
   email            : "shizhu.he@ia.ac.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
