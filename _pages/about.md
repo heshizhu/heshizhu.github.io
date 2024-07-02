@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是<a href="http://www.ia.ac.cn/">中国科学院自动化研究所</a>的副研究员，硕士生导师。2016年，我从<a href=“http://www.nlpr.ia.ac.cn/“>模式识别国家重点实验室（NLPR）</a>获得博士学位，导师是<a href="http://www.nlpr.ia.ac.cn/cip/jzhao.htm">赵军研究员</a>，毕业后并留所工作至今。
+我是<a href="http://www.ia.ac.cn/">中国科学院自动化研究所</a>的副研究员，硕士生导师。2016年，我从<a href="http://www.nlpr.ia.ac.cn/">模式识别国家重点实验室(NLPR)</a>获得博士学位，导师是<a href="http://www.nlpr.ia.ac.cn/cip/jzhao.htm">赵军研究员</a>，毕业后并留所工作至今。
 
 研究领域为：
 - 自然语言处理
 - 知识工程
-- 大语言模型，主要研究方向包括：
+- 大语言模型
 
 主要研究方向包括：
 - 知识推理
