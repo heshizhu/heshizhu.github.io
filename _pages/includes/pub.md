@@ -80,4 +80,4 @@
 - `CIKM 2015` [Learning to Represent Knowledge Graphs with Gaussian Embedding](https://dl.acm.org/doi/10.1145/2806416.2806502), **Shizhu He**, Kang Liu, Guoliang Ji, Jun Zhao.
 - `Intelligent Systems` [Question Answering over Knowledge Bases](https://ieeexplore.ieee.org/document/7243222), Kang Liu, Jun Zhao, **Shizhu He**, Yuanzhe Zhang.
 - `ACL 2015` [Knowledge Graph Embedding via Dynamic Mapping Matrix](https://aclanthology.org/P15-1067/), Guoliang Ji, **Shizhu He**, Liheng Xu, Kang Liu, Jun Zhao.
-- `EMNLP 2014` [Question Answering over Linked Data Using First-order Logic], **Shizhu He**, Kang Liu, Yuanzhe Zhang, Liheng Xu, Jun Zhao.
+- `EMNLP 2014` [Question Answering over Linked Data Using First-order Logic](https://aclanthology.org/D14-1116/), **Shizhu He**, Kang Liu, Yuanzhe Zhang, Liheng Xu, Jun Zhao.
