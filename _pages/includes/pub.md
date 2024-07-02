@@ -27,8 +27,57 @@
 - `EACL 2023` [Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model](https://aclanthology.org/2023.eacl-main.73), Fei Xia, Yixuan Weng, **Shizhu He**, Kang Liu, Jun Zhao.
 - `TALLIP` [Bidirectional Sentence Ordering with Interactive Decoding](https://dl.acm.org/doi/10.1145/3561510), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao.
 - `JCST` [Unsupervised Dialogue State Tracking for End-to-End Task-Oriented Dialogue with a Multi-Span Prediction Network](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-021-1064-y), Qingbin Liu, **Shizhu He**, Cao Liu, Kang Liu, Jun Zhao.
-- `软件学报` [基于多视角图编码的选择式阅读理解方法](https://www.jos.org.cn/jos/article/abstract/6730), 余笑岩, **何世柱**, 宋燃, 刘康, 赵军, 周永彬.
-- `软件学报` [融入法律知识的问句匹配](https://www.jos.org.cn/jos/article/abstract/6412), 刘权, 余正涛, **何世柱**, 刘康, 高盛祥.
+- `软件学报` [基于多视角图编码的选择式阅读理解方法](https://www.jos.org.cn/jos/article/abstract/6730), 余笑岩, **何世柱**, 宋燃, 刘康, 赵军, 周永彬. (In Chinese)
+- `软件学报` [融入法律知识的问句匹配](https://www.jos.org.cn/jos/article/abstract/6412), 刘权, 余正涛, **何世柱**, 刘康, 高盛祥. (In Chinese)
 
 
 ## 2022
+- `EMNLP 2022` [MedConQA: Medical Conversational Question Answering System based on Knowledge Graphs](https://aclanthology.org/2022.emnlp-demos.15/), Fei Xia, Bin Li, Yixuan Weng, **Shizhu He**, Kang Liu, Bin Sun, Shutao Li, Jun Zhao.
+- `ACL 2022` [Leveraging Explicit Lexico-logical Alignments in Text-to-SQL Parsing](https://aclanthology.org/2022.acl-short.31/), Runxin Sun, **Shizhu He**, Chong Zhu, Yaohan He, Jinlong Li, Jun Zhao, Kang Liu.
+- `ACL 2022` [Incremental intent detection for medical domain with contrast replay networks](https://aclanthology.org/2022.findings-acl.280/), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao.
+- `COLING 2022` [Decoupling Mixture-of-Graphs: Unseen Relational Learning for Knowledge Graph Completion by Fusing Ontology and Textual Experts](https://aclanthology.org/2022.coling-1.196/), Ran Song, **Shizhu He**, Suncong Zheng, Shengxiang Gao, Kang Liu, Zhengtao Yu, Jun Zhao.
+- `COLING 2022` [Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder](https://aclanthology.org/2022.coling-1.118/), Fangyu Lei, **Shizhu He**, Xiang Li, Jun Zhao, Kang Liu.
+
+## 2021
+- `EMNLP 2021` [Domain-lifelong learning for dialogue state tracking via knowledge preservation networks](https://aclanthology.org/2021.emnlp-main.176/), Qingbin Liu, Pengfei Cao, Cao Liu, Jiansong Chen, Xunliang Cai, Fan Yang, **Shizhu He**, Kang Liu, Jun Zhao.
+- `TALLIP` [Using Pre-trained Language Model to Enhance Active Learning for Sentence Matching](https://dl.acm.org/doi/10.1145/3480937), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao.
+- `JCST` [A Unified Shared-Private Network with Denoising for Dialogue State Tracking](https://link.springer.com/article/10.1007/s11390-020-0338-0), Qingbin Liu, **Shizhu He**, Kang Liu, Shengping Liu, Jun Zhao.
+- `KBS` [Heterogeneous relational graph neural networks with adaptive objective for end-to-end task-oriented dialogue](https://www.sciencedirect.com/science/article/pii/S0950705121004482), Qingbin Liu, Guirong Bai, **Shizhu He**, Cao Liu, Kang Liu, Jun Zhao.
+- `BMC` [Path-based knowledge reasoning with textual semantic information for medical knowledge graph completion](https://arxiv.org/abs/2105.13074), Yinyu Lan, **Shizhu He**, Xiangrong Zeng, Shengping Liu, Kang Liu, Jun Zhao.
+
+## 2020
+- `COLING 2020` [Pre-trained Language Model Based Active Learning for Sentence Matching](https://aclanthology.org/2020.coling-main.130/), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao, Zaiqing Nie.
+
+## 2019
+- `AAAI 2019` [Learning to Align Question and Answer Utterances in Customer Service Conversation with Recurrent Pointer Networks](https://ojs.aaai.org/index.php/AAAI/article/view/3778),  **Shizhu He**, Kang Liu, Weiting An.
+- `EMNLP 2019` [Learning the Extraction Order of Multiple Relational Facts in a Sentence with Reinforcement Learning](https://aclanthology.org/D19-1035/), Xiangrong Zeng, **Shizhu He**, Daojian Zeng, Kang Liu, Shengping Liu, Jun Zhao.
+- `EMNLP 2019` [Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss](https://aclanthology.org/D19-1247/), Cao Liu, Kang Liu, **Shizhu He**, Zaiqing Nie, Jun Zhao.
+- `CoNLL 2019` [Incorporating Interlocutor-Aware Context into Response Generation on Multi-Party Chatbots](https://aclanthology.org/K19-1067/),  Cao Liu, Kang Liu, **Shizhu He**, Zaiqing Nie, Jun Zhao.
+- `ACL 2019` [Vocabulary Pyramid Network: Multi-Pass Encoding and Decoding with Multi-Level Vocabularies for Response Generation](https://aclanthology.org/P19-1367/),  Cao Liu, **Shizhu He**, Kang Liu, Jun Zhao.
+- `ACL 2019` [AdaNSP: Uncertainty-driven adaptive decoding in neural semantic parsing](https://aclanthology.org/P19-1418), Xiang Zhang, **Shizhu He**, Kang Liu, Jun Zhao.
+
+## 2018
+- `AAAI 2018` [Large Scaled Relation Extraction With Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/11950), Xiangrong Zeng, **Shizhu He**, Kang Liu, Jun Zhao.
+- `IJCAI 2018` [Curriculum Learning for Natural Answer Generation](https://www.ijcai.org/proceedings/2018/587), Cao Liu, **Shizhu He**, Kang Liu, Jun Zhao.
+- `ACL 2018` [Extracting Relational Facts by an End-to-End Neural Model with Copy Mechanism](https://aclanthology.org/P18-1047/), Xiangrong Zeng, Daojian Zeng, **Shizhu He**, Kang Liu, Jun Zhao.
+- `COLING 2018` [Pattern-revising Enhanced Simple Question Answering over Knowledge Bases](https://aclanthology.org/C18-1277/), Yanchao Hao, Hao Liu, **Shizhu He**, Kang Liu, Jun Zhao.
+
+## 2017
+- `ACL 2017` [Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning](https://aclanthology.org/P17-1019/), **Shizhu He**, Cao Liu, Kang Liu, Jun Zhao.
+- `ACL 2017` [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge](https://aclanthology.org/P17-1021/), Yanchao Hao, Yuanzhe Zhang, Kang Liu, **Shizhu He**, Zhanyi Liu, Hua Wu, Jun Zhao.
+- `EACL 2017` [Which is the Effective Way for Gaokao: Information Retrieval or Neural Networks?](https://aclanthology.org/E17-1011/), Shangmin Guo, Xiangrong Zeng, **Shizhu He**, Kang Liu, Jun Zhao.
+- `AAAI 2017` [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](https://ojs.aaai.org/index.php/AAAI/article/view/10953),Guoliang Ji, Kang Liu, **Shizhu He**, Jun Zhao.
+
+
+## 2016 and Before
+- `EMNLP 2016` [Learning to Represent Review with Tensor Decomposition for Spam Detection](https://aclanthology.org/D16-1083/), Xuepeng Wang, Kang Liu, **Shizhu He**, Jun Zhao.
+- `ACL 2016` [Leveraging FrameNet to Improve Automatic Event Detection](https://aclanthology.org/P16-1201/), Shulin Liu, Yubo Chen, **Shizhu He**, Kang Liu, Jun Zhao.
+- `IJCAI 2016` [Employing External Rich Knowledge for Machine Comprehension](https://dl.acm.org/doi/10.5555/3060832.3061031), Bingning Wang, Shangmin Guo, Kang Liu, **Shizhu He**, Jun Zhao.
+- `Intelligent Systems` [How to Generate a Good Word Embedding](https://ieeexplore.ieee.org/document/7478417), Siwei Lai, Kang Liu, **Shizhu He**, Jun Zhao.
+- `AAAI 2016` [A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification](https://ojs.aaai.org/index.php/AAAI/article/view/10375), Shunlin Liu, Kang Liu, **Shizhu He**, Jun Zhao..
+- `AAAI 2016` [A Joint Model for Question Answering over Multiple Knowledge Bases](https://ojs.aaai.org/index.php/AAAI/article/view/10381), Yuanzhe Zhang, **Shizhu He**, Kang Liu, Jun Zhao.
+- `AAAI 2016` [Knowledge Graph Completion with Adaptive Sparse Transfer Matrix](https://ojs.aaai.org/index.php/AAAI/article/view/10089), Guoliang Ji, Kang Liu, **Shizhu He**, Jun Zhao.
+- `CIKM 2015` [Learning to Represent Knowledge Graphs with Gaussian Embedding](https://dl.acm.org/doi/10.1145/2806416.2806502), **Shizhu He**, Kang Liu, Guoliang Ji, Jun Zhao.
+- `Intelligent Systems` [Question Answering over Knowledge Bases](https://ieeexplore.ieee.org/document/7243222), Kang Liu, Jun Zhao, **Shizhu He**, Yuanzhe Zhang.
+- `ACL 2015` [Knowledge Graph Embedding via Dynamic Mapping Matrix](https://aclanthology.org/P15-1067/), Guoliang Ji, **Shizhu He**, Liheng Xu, Kang Liu, Jun Zhao.
+- `EMNLP 2014` [Question Answering over Linked Data Using First-order Logic], **Shizhu He**, Kang Liu, Yuanzhe Zhang, Liheng Xu, Jun Zhao.
