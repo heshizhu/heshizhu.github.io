@@ -15,8 +15,8 @@ main:
   - title: "Projects"
     url: "/#-projects"  
 
-  - title: "Educations"
-    url: "/#-educations"
+  #- title: "Educations"
+  #  url: "/#-educations"
 
   - title: "中文(Chinese)"
     url: "/intro_zh"
