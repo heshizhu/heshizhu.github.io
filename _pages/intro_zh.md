@@ -1,11 +1,13 @@
 ---
-layout: archive
-title: "何世柱的主页"
 permalink: /intro_zh/
+title: "何世柱的主页"
+excerpt: ""
 author_profile: true
-redirect_from:
-  - /about
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+
 
 
 <span class='anchor' id='about-me'></span>
@@ -22,3 +24,7 @@ redirect_from:
 - 大小模型协同学习
 
 我在ACL、AAAI、ICLR、EMNLP等顶级国际会议和重要学术期刊上发表论文60余篇，Google Scholar总引用7200余次<a href='https://scholar.google.com/citations?user=zBPIt3QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，2篇论文入选Paper Digest高影响力论文，多次获得最佳论文奖（NLP-NABD 2016，CCKS 2019）。
+
+
+
+{% include_relative includes/pub.md %}
