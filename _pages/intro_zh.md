@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: "何世柱的主页"
+permalink: /intro_zh/
+author_profile: true
+redirect_from:
+  - /about
+---
 
 我是<a href="http://www.ia.ac.cn/">中国科学院自动化研究所</a>的副研究员，硕士生导师。2016年，我从<a href="http://www.nlpr.ia.ac.cn/">模式识别国家重点实验室(NLPR)</a>获得博士学位，导师是<a href="http://www.nlpr.ia.ac.cn/cip/jzhao.htm">赵军研究员</a>，毕业后并留所工作至今。
 
