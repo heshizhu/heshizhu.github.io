@@ -4,7 +4,7 @@
 - *2008.09 - 2011.06*, <a href="https://www.jxnu.edu.cn/"><img class="svg" src="/images/jxnu_logo.png" width="20pt"></a> Jiangxi Normal University, School of Computer Information Engineering, Nanchang, Jiangxi, Master.
 
 
-## 🌴 Teaching
+# 🌴 Teaching
 - 2024-2025年, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2023-2024年, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2022-2023年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
@@ -14,7 +14,7 @@
 - 2018-2019年, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences.
 - 2017-2018年，Natural Language Processing in Deep Learning: Theory and Practice (postgraduate), University of Chinese Academy of Sciences.
 
-## ♻️ Book
+# ♻️ Book
 - Knowledge Graph, Higher Education Press, 2018-10, 3rd author.
 - Natural Language Processing, Higher Education Press, December 2021, chapter writing.
 - Knowledge Graph: Algorithms and Practices, Higher Education Press, April 2022, 3rd author.
