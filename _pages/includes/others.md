@@ -16,5 +16,5 @@
 
 # ♻️ Books
 - Knowledge Graph, Higher Education Press, 2018-10, 3rd author.
-- Natural Language Processing, Higher Education Press, December 2021, chapter writing.
-- Knowledge Graph: Algorithms and Practices, Higher Education Press, April 2022, 3rd author.
+- Natural Language Processing, Higher Education Press, 2021-11, chapter author.
+- Knowledge Graph: Algorithms and Practices, Higher Education Press, 2022-03, 3rd author.
