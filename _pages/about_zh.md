@@ -1,10 +1,9 @@
 ---
+layout: archive
 permalink: /about_zh/
 title: "何世柱的主页"
 excerpt: ""
 author_profile: true
-redirect_from:
-  - /about_zh
 ---
 
 
