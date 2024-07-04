@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-<span class='anchor' id='about-me-zh'></span>
+<span class='anchor' id='about-zh'></span>
 {% include_relative includes/intro_zh.md %}
 
 {% include_relative includes/pub.md %}
