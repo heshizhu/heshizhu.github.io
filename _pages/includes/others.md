@@ -5,16 +5,16 @@
 
 
 ## 🌴 Teaching (In Chinese)
-- 2024-2025年, 秋季学期，知识工程（本科生），中国科学院大学.
-- 2023-2024年, 秋季学期，知识工程（本科生），中国科学院大学.
-- 2022-2023年, 春季学期，知识图谱（研究生），中国科学院大学.
-- 2021-2022年, 春季学期，知识图谱（研究生），中国科学院大学.
-- 2020-2021年, 春季学期，知识图谱（研究生），中国科学院大学 （校级优秀课程、院级优秀课程）.
-- 2019-2020年, 春季学期，知识图谱与语义计算（研究生），中国科学院大学 （院级优秀课程）.
-- 2018-2019年, 春季学期，知识图谱与语义计算（研究生），中国科学院大学.
-- 2017-2018年，夏季学期，深度学习下的自然语言处理：理论与实践（研究生），中国科学院大学.
+- 2024-2025年, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
+- 2023-2024年, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
+- 2022-2023年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
+- 2021-2022年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
+- 2020-2021年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences (**Excellent courses at the school level**).
+- 2019-2020年, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences (**Excellent courses at the college level**).
+- 2018-2019年, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences.
+- 2017-2018年，Natural Language Processing in Deep Learning: Theory and Practice (postgraduate), University of Chinese Academy of Sciences.
 
 ## ♻️ Book (In Chinese)
-- 《知识图谱》, 高等教育出版社, 2018-10, 第 3 作者.
-- 《自然语言处理》, 高等教育出版社, 2021-12, 章节撰写.
-- 《知识图谱：算法与实践》, 高等教育出版社, 2022-04, 第 3 作者.
+- Knowledge Graph, Higher Education Press, 2018-10, 3rd author.
+- Natural Language Processing, Higher Education Press, December 2021, chapter writing.
+- Knowledge Graph: Algorithms and Practices, Higher Education Press, April 2022, 3rd author.
