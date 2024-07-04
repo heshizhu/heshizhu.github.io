@@ -1,11 +1,11 @@
 ---
-permalink: //intro_zh/
+permalink: /about_zh/
 title: "何世柱的主页"
 excerpt: ""
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /about_zh/
+  - /about_zh.html
 ---
 
 
