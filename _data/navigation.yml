@@ -12,11 +12,11 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Projects"
-    url: "/#-projects"  
+  # - title: "Projects"
+  #  url: "/#-projects"  
 
   #- title: "Educations"
   #  url: "/#-educations"
 
   - title: "中文(Chinese)"
-    url: "/intro_zh/"
+    url: "//intro_zh/"
