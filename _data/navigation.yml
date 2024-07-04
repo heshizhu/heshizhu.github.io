@@ -19,4 +19,4 @@ main:
   #  url: "/#-educations"
 
   - title: "中文(Chinese)"
-    url: "//intro_zh/"
+    url: "/intro_zh/"
