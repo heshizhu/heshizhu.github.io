@@ -13,3 +13,7 @@ author_profile: true
 {% include_relative includes/pub_zh.md %}
 
 {% include_relative includes/projects.md %}
+
+{% include_relative includes/honers.md %}
+
+{% include_relative includes/others-zh.md %}
