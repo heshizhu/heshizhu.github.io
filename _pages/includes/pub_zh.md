@@ -1,6 +1,6 @@
 
 
-# 📝 Publications 
+# 📝 发表论文 
 
 ## 2024
 - `ACL 2024` Teaching Small Language Models to Reason for Knowledge-Intensive Multi-Hop Question Answering, Xiang Li, **Shizhu He**, Fangyu Lei, Jun Yang, Tianhuang Su, Kang Liu, Jun Zhao.
@@ -27,7 +27,8 @@
 - `EACL 2023` [Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model](https://aclanthology.org/2023.eacl-main.73), Fei Xia, Yixuan Weng, **Shizhu He**, Kang Liu, Jun Zhao.
 - `TALLIP` [Bidirectional Sentence Ordering with Interactive Decoding](https://dl.acm.org/doi/10.1145/3561510), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao.
 - `JCST` [Unsupervised Dialogue State Tracking for End-to-End Task-Oriented Dialogue with a Multi-Span Prediction Network](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-021-1064-y), Qingbin Liu, **Shizhu He**, Cao Liu, Kang Liu, Jun Zhao.
-
+- `软件学报` [基于多视角图编码的选择式阅读理解方法](https://www.jos.org.cn/jos/article/abstract/6730), 余笑岩, **何世柱**, 宋燃, 刘康, 赵军, 周永彬. (中文论文)
+- `软件学报` [融入法律知识的问句匹配](https://www.jos.org.cn/jos/article/abstract/6412), 刘权, 余正涛, **何世柱**, 刘康, 高盛祥. (中文论文)
 
 
 ## 2022
