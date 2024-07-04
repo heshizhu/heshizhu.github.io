@@ -1,7 +1,6 @@
 
 
-何世柱，<a href="http://www.ia.ac.cn/">中国科学院自动化研究所</a>的副研究员，硕士生导师。2016年，我从<a href="http://www.nlpr.ia.ac.cn/">模式识别国家重点实验室(NLPR)</a>获得博士学位，导师是<a href="http://www.nlpr.ia.ac.cn/cip/jzhao.htm">赵军研究员</a>，毕业后并留所工作至今。
-
+何世柱，<a href="http://www.ia.ac.cn/">中国科学院自动化研究所</a>的副研究员，硕士生导师。2016年，我从<a href="http://www.nlpr.ia.ac.cn/">模式识别国家重点实验室(NLPR)</a>毕业，获得中国科学院大学工学博士学位，导师是<a href="http://www.nlpr.ia.ac.cn/cip/jzhao.htm">赵军研究员</a>，毕业后并留所工作至今。
 
 
 研究领域为：
@@ -14,7 +13,7 @@
 - 问答系统
 - 大小模型协同学习
 
-我在ACL、AAAI、ICLR、EMNLP等顶级国际会议和重要学术期刊上发表论文60余篇，Google Scholar总引用7200余次<a href='https://scholar.google.com/citations?user=zBPIt3QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>，2篇论文入选Paper Digest高影响力论文，多次获得最佳论文奖（NLP-NABD 2016，CCKS 2019）。
+我在ACL、AAAI、ICLR、EMNLP等顶级国际会议和重要学术期刊上发表论文60余篇，Google Scholar总引用7200余次，2篇论文入选Paper Digest高影响力论文，多次获得最佳论文奖（NLP-NABD 2016，CCKS 2019）。
 
 
 先后承担了国家自然科学基金面上、青年项目（项目负责人），国家重点研发计划和国自然联合基金项目（课题负责人），以及华为、腾讯、美团、Oppo、云知声多项企业合作项目。
@@ -24,10 +23,6 @@
 负责或指导学生参加多项国内外学术评测并获得好成绩（QALD-3第一名、SemEval 2022 词语关系预测任务冠军、CBLUE 2.0月度榜单中综合得分排名第一、CCKS 2021中的医疗科普知识答非所问识别评测比赛冠军、2021未来杯高校AI学术联赛全国总冠军等）。
 
 获得中国中文信息学会 “钱伟长中文信息处理科学技术奖”一等奖两次（2018年、2020年）、2019年度北京市科学技术进步奖一等奖、入选2020年中国科学院青年创新促进会会员、2021年入选北京市智源人工智能研究院“青源会”会员、入选百度发布的AI华人青年学者Top100和美国斯坦福大学发布的全球前2%顶尖科学家榜单（2022年），获得华为优秀专利奖（2015）、腾讯优秀专利奖（2017）、美团卓越创新奖（2023）等企业合作奖励。
-
-
-
-
 
 
 
