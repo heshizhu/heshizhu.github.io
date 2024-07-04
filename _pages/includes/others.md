@@ -14,7 +14,7 @@
 - 2018-2019年, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences.
 - 2017-2018年，Natural Language Processing in Deep Learning: Theory and Practice (postgraduate), University of Chinese Academy of Sciences.
 
-# ♻️ Book
+# ♻️ Books
 - Knowledge Graph, Higher Education Press, 2018-10, 3rd author.
 - Natural Language Processing, Higher Education Press, December 2021, chapter writing.
 - Knowledge Graph: Algorithms and Practices, Higher Education Press, April 2022, 3rd author.
