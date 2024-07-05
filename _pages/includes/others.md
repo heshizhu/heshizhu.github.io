@@ -5,14 +5,14 @@
 
 
 # 🌴 Teaching
-- 2024-2025年, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
-- 2023-2024年, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
-- 2022-2023年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
-- 2021-2022年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
-- 2020-2021年, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences (**Excellent courses at the school level**).
-- 2019-2020年, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences (**Excellent courses at the college level**).
-- 2018-2019年, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences.
-- 2017-2018年，Natural Language Processing in Deep Learning: Theory and Practice (postgraduate), University of Chinese Academy of Sciences.
+- 2024-2025, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
+- 2023-2024, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
+- 2022-2023, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
+- 2021-2022, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
+- 2020-2021, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences (**Excellent courses at the school level**).
+- 2019-2020, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences (**Excellent courses at the college level**).
+- 2018-2019, Knowledge Graph and Semantic Computing (postgraduate), University of Chinese Academy of Sciences.
+- 2017-2018，Natural Language Processing in Deep Learning: Theory and Practice (postgraduate), University of Chinese Academy of Sciences.
 
 # ♻️ Books
 - Knowledge Graph, Higher Education Press, 2018-10, 3rd author.
