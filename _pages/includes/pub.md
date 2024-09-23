@@ -3,6 +3,10 @@
 # 📝 Publications 
 
 ## 2024
+- `EMNLP 2024` [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](), Yao Xu, **Shizhu He**, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao, Kang Liu.
+- `EMNLP 2024` [DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models](), Yiming Huang, Jianwen Luo, Yan Yu, Yitong Zhang, Fangyu Lei, Yifan Wei, **Shizhu He**, Lifu Huang, Xiao Liu, Jun Zhao, Kang Liu.
+- `EMNLP 2024` [Does Large Language Model Contain Task-Specific Neurons?](), Ran Song, **Shizhu He**, Shuting Jiang, Yantuan Xian, Shengxiang Gao, Kang Liu, Zhengtao Yu.
+- `EMNLP 2024` [Instance-Level Dynamic LoRAs Composition for Cross-Task Generalization](), WangZhiqi, **Shizhu He**, Kang Liu, Jun Zhao.
 - `ACL 2024` [Teaching Small Language Models to Reason for Knowledge-Intensive Multi-Hop Question Answering](https://aclanthology.org/2024.findings-acl.464/), Xiang Li, **Shizhu He**, Fangyu Lei, Jun Yang, Tianhuang Su, Kang Liu, Jun Zhao.
 - `ACL 2024` [ItD: Large Language Models Can Teach Themselves Induction through Deduction](https://aclanthology.org/2024.acl-long.150/), Wangtao Sun, Haotian Xu, Xuanqing Yu, Pei Chen, **Shizhu He**, Jun Zhao, Kang Liu.
 - `ICLR 2024` [Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks](https://arxiv.org/abs/2304.01665), Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, **Shizhu He**, Kang Liu, Jun Zhao.
