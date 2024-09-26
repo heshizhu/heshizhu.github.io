@@ -3,6 +3,7 @@
 # 📝 Publications 
 
 ## 2024
+- `NeurIPS 2024` [From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu, Jun Zhao.
 - `EMNLP 2024` [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](), Yao Xu, **Shizhu He**, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao, Kang Liu.
 - `EMNLP 2024` [DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models](), Yiming Huang, Jianwen Luo, Yan Yu, Yitong Zhang, Fangyu Lei, Yifan Wei, **Shizhu He**, Lifu Huang, Xiao Liu, Jun Zhao, Kang Liu.
 - `EMNLP 2024` [Does Large Language Model Contain Task-Specific Neurons?](), Ran Song, **Shizhu He**, Shuting Jiang, Yantuan Xian, Shengxiang Gao, Kang Liu, Zhengtao Yu.
