@@ -2,6 +2,12 @@
 
 # 📝 Publications 
 
+
+## 2024
+- `AAAI 2025` [Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](https://arxiv.org/abs/2409.13203), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Jun Zhao, Kang Liu.
+- `COLING 2025` [SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models](https://arxiv.org/abs/2409.13183), Huanxuan Liao, **Shizhu He**, Yupu Hao, Xiang Li, Yuanzhe Zhang, Jun Zhao, Kang Liu.
+- `COLING 2025` [Awakening Augmented Generation: Learning to Awaken Internal Knowledge of Large Language Models for Question Answering](https://arxiv.org/abs/2403.15268), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Kang Liu, Shengping Liu, Jun Zhao.
+
 ## 2024
 - `NeurIPS 2024` [From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu, Jun Zhao.
 - `EMNLP 2024` [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](), Yao Xu, **Shizhu He**, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao, Kang Liu.
