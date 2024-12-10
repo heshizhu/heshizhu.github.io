@@ -3,8 +3,9 @@
 # 📝 Publications 
 
 
-## 2024
+## 2025
 - `AAAI 2025` [Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](https://arxiv.org/abs/2409.13203), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Jun Zhao, Kang Liu.
+- `AAAI 2025` [HFF-Tracker: A Hierarchical Fine-grained Fusion Tracker for Referring Multi-Object Tracking](), Zeyong Zhao, Yanchao Hao, Minghao Zhang, Qingbin Liu, Bo Li, Dianbo Sui, **Shizhu He**, Xi Chen.
 - `COLING 2025` [SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models](https://arxiv.org/abs/2409.13183), Huanxuan Liao, **Shizhu He**, Yupu Hao, Xiang Li, Yuanzhe Zhang, Jun Zhao, Kang Liu.
 - `COLING 2025` [Awakening Augmented Generation: Learning to Awaken Internal Knowledge of Large Language Models for Question Answering](https://arxiv.org/abs/2403.15268), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Kang Liu, Shengping Liu, Jun Zhao.
 
