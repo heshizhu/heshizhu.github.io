@@ -3,6 +3,8 @@
 # 📝 发表论文 
 
 ## 2025
+- `T-ASL` [Prompting, Decoding, Embedding: Leveraging Pretrained Language Models for High-quality and Diverse Open Rule Induction], Wangtao Sun, **Shizhu He**, Jun Zhao, Kang Liu.
+- `NAACL 2025` [LLaSA: Large Language and Structured Data Assistant](https://arxiv.org/abs/2411.14460), Yao Xu, **Shizhu He**, Jiabei Chen, Zeng Xiangrong, Bingning Wang, Guang Liu, Jun Zhao, Kang Liu.
 - `AAAI 2025` [Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](https://arxiv.org/abs/2409.13203), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Kang Liu, Jun Zhao.
 - `AAAI 2025` [HFF-Tracker: A Hierarchical Fine-grained Fusion Tracker for Referring Multi-Object Tracking](), Zeyong Zhao, Yanchao Hao, Minghao Zhang, Qingbin Liu, Bo Li, Dianbo Sui, **Shizhu He**, Xi Chen.
 - `COLING 2025` [SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models](https://arxiv.org/abs/2409.13183), Huanxuan Liao, **Shizhu He**, Yupu Hao, Xiang Li, Yuanzhe Zhang, Jun Zhao, Kang Liu.
