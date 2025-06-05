@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: 🎉 Two papers is accepted by ACL 2025.
 - *2025.02*: 🎉 One paper is accepted by NAACL 2025.
 - *2024.12*: 🎉 Two papers are accepted by AAAI 2025.
 - *2024.11*: 🎉 Two papers are accepted by COLING 2025.

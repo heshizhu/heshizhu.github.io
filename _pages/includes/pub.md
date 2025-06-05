@@ -4,6 +4,8 @@
 
 
 ## 2025
+- `ACL 2025` [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/abs/2505.14436), Yuqiao Tan, **Shizhu He**, Kang Liu, Jun Zhao.
+- `ACL 2025` [Search-in-Context: Efficient Multi-Hop QA over Long Contexts via Monte Carlo Tree Search with Dynamic KV Retrieval](https://aclanthology.org/2024.acl-long.150/), Jiabei Chen, Guang Liu, **Shizhu He**, Kun Luo, Yao Xu, Jun Zhao, Kang Liu.
 - `TASLP` [Prompting, Decoding, Embedding: Leveraging Pretrained Language Models for High-quality and Diverse Open Rule Induction], Wangtao Sun, **Shizhu He**, Jun Zhao, Kang Liu.
 - `NAACL 2025` [LLaSA: Large Language and Structured Data Assistant](https://arxiv.org/abs/2411.14460), Yao Xu, **Shizhu He**, Jiabei Chen, Zeng Xiangrong, Bingning Wang, Guang Liu, Jun Zhao, Kang Liu.
 - `AAAI 2025` [Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](https://arxiv.org/abs/2409.13203), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Kang Liu, Jun Zhao.
