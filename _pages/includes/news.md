@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06*: 🎉 My proposed project, “Continual Evolution of Large Reasoning Models”, has been selected for the 2025 Tencent AI Lab Rhino-Bird Research Program (12 out of 600 proposals).
 - *2025.05*: 🎉 Two papers is accepted by ACL 2025.
 - *2025.02*: 🎉 One paper is accepted by NAACL 2025.
 - *2024.12*: 🎉 Two papers are accepted by AAAI 2025.
