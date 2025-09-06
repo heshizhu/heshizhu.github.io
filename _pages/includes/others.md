@@ -5,6 +5,7 @@
 
 
 # 🌴 Teaching
+- 2025-2026, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2024-2025, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2023-2024, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2022-2023, Knowledge Graph (postgraduate), University of Chinese Academy of Sciences.
