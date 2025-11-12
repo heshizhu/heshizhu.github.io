@@ -2,24 +2,30 @@
 
 # 📝 发表论文 
 
+## 2026
+- `AAAI 2026` [TaREx: Reinforcement Learning for Code-Driven Table Reasoning](), Fangyu Lei, Jinxiang Meng, Yiming Huang, **Shizhu He**, Jun Zhao,  Kang Liu.
+- `AAAI 2026` [QuarK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning](), Huanxuan Liao,  **Shizhu He**, Jun Zhao,  Kang Liu.
+- `AAAI 2026` [Seeing is Believing: Grounding Long-Video Understanding in Spatio-Temporal Visual Evidence](), Zhaoyang Wei, Guoliang Wang, Guohua Gao, Yanchao Hao, Mingda Li, Wenchao Ding, Xi Chen, **Shizhu He**, Xuehui Yu.
+
+
 ## 2025
-- `EMNLP 2025` [Why and How LLMs Benefit from Knowledge Introspection in Commonsense Reasoning](), Chengfeng Zhao, **Shizhu He**, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu.
-- `EMNLP 2025` [Multilingual Knowledge Graph Completion via Efficient Multilingual Knowledge Sharing](), Cunli Mao, Xiaofei Gao, Ran Song, **Shizhu He**, Shengxiang Gao, Kang Liu, Zhengtao Yu.
+- `EMNLP 2025` [Why and How LLMs Benefit from Knowledge Introspection in Commonsense Reasoning](https://aclanthology.org/2025.emnlp-main.352/), Chengfeng Zhao, **Shizhu He**, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu.
+- `EMNLP 2025` [Multilingual Knowledge Graph Completion via Efficient Multilingual Knowledge Sharing](https://aclanthology.org/2025.findings-emnlp.577/), Cunli Mao, Xiaofei Gao, Ran Song, **Shizhu He**, Shengxiang Gao, Kang Liu, Zhengtao Yu.
 - `ACL 2025` [Neural Incompatibility: The Unbridgeable Gap of Cross-Scale Parametric Knowledge Transfer in Large Language Models](https://arxiv.org/abs/2505.14436), Yuqiao Tan, **Shizhu He**, Kang Liu, Jun Zhao.
-- `ACL 2025` [Search-in-Context: Efficient Multi-Hop QA over Long Contexts via Monte Carlo Tree Search with Dynamic KV Retrieval](), Jiabei Chen, Guang Liu, **Shizhu He**, Kun Luo, Yao Xu, Jun Zhao, Kang Liu.
+- `ACL 2025` [Search-in-Context: Efficient Multi-Hop QA over Long Contexts via Monte Carlo Tree Search with Dynamic KV Retrieval](https://aclanthology.org/2025.findings-acl.1356/), Jiabei Chen, Guang Liu, **Shizhu He**, Kun Luo, Yao Xu, Jun Zhao, Kang Liu.
 - `TASLP` [Prompting, Decoding, Embedding: Leveraging Pretrained Language Models for High-quality and Diverse Open Rule Induction](https://ieeexplore.ieee.org/document/10906469/), Wangtao Sun, **Shizhu He**, Jun Zhao, Kang Liu.
 - `NAACL 2025` [LLaSA: Large Language and Structured Data Assistant](https://arxiv.org/abs/2411.14460), Yao Xu, **Shizhu He**, Jiabei Chen, Zeng Xiangrong, Bingning Wang, Guang Liu, Jun Zhao, Kang Liu.
 - `AAAI 2025` [Neural-Symbolic Collaborative Distillation: Advancing Small Language Models for Complex Reasoning Tasks](https://arxiv.org/abs/2409.13203), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Kang Liu, Jun Zhao.
-- `AAAI 2025` [HFF-Tracker: A Hierarchical Fine-grained Fusion Tracker for Referring Multi-Object Tracking](), Zeyong Zhao, Yanchao Hao, Minghao Zhang, Qingbin Liu, Bo Li, Dianbo Sui, **Shizhu He**, Xi Chen.
+- `AAAI 2025` [HFF-Tracker: A Hierarchical Fine-grained Fusion Tracker for Referring Multi-Object Tracking](https://ojs.aaai.org/index.php/AAAI/article/view/33143), Zeyong Zhao, Yanchao Hao, Minghao Zhang, Qingbin Liu, Bo Li, Dianbo Sui, **Shizhu He**, Xi Chen.
 - `COLING 2025` [SKIntern: Internalizing Symbolic Knowledge for Distilling Better CoT Capabilities into Small Language Models](https://arxiv.org/abs/2409.13183), Huanxuan Liao, **Shizhu He**, Yupu Hao, Xiang Li, Yuanzhe Zhang, Jun Zhao, Kang Liu.
 - `COLING 2025` [Awakening Augmented Generation: Learning to Awaken Internal Knowledge of Large Language Models for Question Answering](https://arxiv.org/abs/2403.15268), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Kang Liu, Shengping Liu, Jun Zhao.
 
 ## 2024
 - `NeurIPS 2024` [From Instance Training to Instruction Learning: Task Adapters Generation from Instructions](https://arxiv.org/abs/2406.12382), Huanxuan Liao, **Shizhu He**, Yao Xu, Yuanzhe Zhang, Yanchao Hao, Shengping Liu, Kang Liu, Jun Zhao.
-- `EMNLP 2024` [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](), Yao Xu, **Shizhu He**, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao, Kang Liu.
-- `EMNLP 2024` [DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models](), Yiming Huang, Jianwen Luo, Yan Yu, Yitong Zhang, Fangyu Lei, Yifan Wei, **Shizhu He**, Lifu Huang, Xiao Liu, Jun Zhao, Kang Liu.
-- `EMNLP 2024` [Does Large Language Model Contain Task-Specific Neurons?](), Ran Song, **Shizhu He**, Shuting Jiang, Yantuan Xian, Shengxiang Gao, Kang Liu, Zhengtao Yu.
-- `EMNLP 2024` [Instance-Level Dynamic LoRAs Composition for Cross-Task Generalization](), WangZhiqi, **Shizhu He**, Kang Liu, Jun Zhao.
+- `EMNLP 2024` [Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering](https://aclanthology.org/2024.emnlp-main.1023/), Yao Xu, **Shizhu He**, Jiabei Chen, Zihao Wang, Yangqiu Song, Hanghang Tong, Guang Liu, Jun Zhao, Kang Liu.
+- `EMNLP 2024` [DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models](https://aclanthology.org/2024.emnlp-main.748/), Yiming Huang, Jianwen Luo, Yan Yu, Yitong Zhang, Fangyu Lei, Yifan Wei, **Shizhu He**, Lifu Huang, Xiao Liu, Jun Zhao, Kang Liu.
+- `EMNLP 2024` [Does Large Language Model Contain Task-Specific Neurons?](https://aclanthology.org/2024.emnlp-main.403/), Ran Song, **Shizhu He**, Shuting Jiang, Yantuan Xian, Shengxiang Gao, Kang Liu, Zhengtao Yu.
+- `EMNLP 2024` [Instance-Level Dynamic LoRAs Composition for Cross-Task Generalization](https://aclanthology.org/2024.findings-emnlp.326/), WangZhiqi, **Shizhu He**, Kang Liu, Jun Zhao.
 - `ACL 2024` [Teaching Small Language Models to Reason for Knowledge-Intensive Multi-Hop Question Answering](https://aclanthology.org/2024.findings-acl.464/), Xiang Li, **Shizhu He**, Fangyu Lei, Jun Yang, Tianhuang Su, Kang Liu, Jun Zhao.
 - `ACL 2024` [ItD: Large Language Models Can Teach Themselves Induction through Deduction](https://aclanthology.org/2024.acl-long.150/), Wangtao Sun, Haotian Xu, Xuanqing Yu, Pei Chen, **Shizhu He**, Jun Zhao, Kang Liu.
 - `ICLR 2024` [Mastering Symbolic Operations: Augmenting Language Models with Compiled Neural Networks](https://arxiv.org/abs/2304.01665), Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, **Shizhu He**, Kang Liu, Jun Zhao.
@@ -45,8 +51,7 @@
 - `EACL 2023` [Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model](https://aclanthology.org/2023.eacl-main.73), Fei Xia, Yixuan Weng, **Shizhu He**, Kang Liu, Jun Zhao.
 - `TALLIP` [Bidirectional Sentence Ordering with Interactive Decoding](https://dl.acm.org/doi/10.1145/3561510), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao.
 - `JCST` [Unsupervised Dialogue State Tracking for End-to-End Task-Oriented Dialogue with a Multi-Span Prediction Network](https://jcst.ict.ac.cn/en/article/doi/10.1007/s11390-021-1064-y), Qingbin Liu, **Shizhu He**, Cao Liu, Kang Liu, Jun Zhao.
-- `软件学报` [基于多视角图编码的选择式阅读理解方法](https://www.jos.org.cn/jos/article/abstract/6730), 余笑岩, **何世柱**, 宋燃, 刘康, 赵军, 周永彬. (中文论文)
-- `软件学报` [融入法律知识的问句匹配](https://www.jos.org.cn/jos/article/abstract/6412), 刘权, 余正涛, **何世柱**, 刘康, 高盛祥. (中文论文)
+
 
 
 ## 2022
@@ -61,7 +66,6 @@
 - `TALLIP` [Using Pre-trained Language Model to Enhance Active Learning for Sentence Matching](https://dl.acm.org/doi/10.1145/3480937), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao.
 - `JCST` [A Unified Shared-Private Network with Denoising for Dialogue State Tracking](https://link.springer.com/article/10.1007/s11390-020-0338-0), Qingbin Liu, **Shizhu He**, Kang Liu, Shengping Liu, Jun Zhao.
 - `KBS` [Heterogeneous relational graph neural networks with adaptive objective for end-to-end task-oriented dialogue](https://www.sciencedirect.com/science/article/pii/S0950705121004482), Qingbin Liu, Guirong Bai, **Shizhu He**, Cao Liu, Kang Liu, Jun Zhao.
-- `BMC` [Path-based knowledge reasoning with textual semantic information for medical knowledge graph completion](https://arxiv.org/abs/2105.13074), Yinyu Lan, **Shizhu He**, Xiangrong Zeng, Shengping Liu, Kang Liu, Jun Zhao.
 
 ## 2020
 - `COLING 2020` [Pre-trained Language Model Based Active Learning for Sentence Matching](https://aclanthology.org/2020.coling-main.130/), Guirong Bai, **Shizhu He**, Kang Liu, Jun Zhao, Zaiqing Nie.
@@ -99,3 +103,4 @@
 - `Intelligent Systems` [Question Answering over Knowledge Bases](https://ieeexplore.ieee.org/document/7243222), Kang Liu, Jun Zhao, **Shizhu He**, Yuanzhe Zhang.
 - `ACL 2015` [Knowledge Graph Embedding via Dynamic Mapping Matrix](https://aclanthology.org/P15-1067/), Guoliang Ji, **Shizhu He**, Liheng Xu, Kang Liu, Jun Zhao.
 - `EMNLP 2014` [Question Answering over Linked Data Using First-order Logic](https://aclanthology.org/D14-1116/), **Shizhu He**, Kang Liu, Yuanzhe Zhang, Liheng Xu, Jun Zhao.
+
