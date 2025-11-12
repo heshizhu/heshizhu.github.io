@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.11*: 🎉 Three papers are accepted by AAAI 2025.
+- *2025.11*: 🎉 Three papers are accepted by AAAI 2026.
 - *2025.09*: 🎉 Our organized workshop on ["Bridging Neurons and Symbols for NLP and Knowledge Graph Reasoning"](https://neusymbridge.github.io/) has been accepted by AAAI 2026.
 - *2025.08*: 🎉 Two papers are accepted by EMNLP 2025.
 - *2025.08*: 🎉 I received the [CCF Natural Language Processing Committee's Young Talent Award](http://tcci.ccf.org.cn/award2025.php).
