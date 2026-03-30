@@ -5,6 +5,7 @@
 
 
 ## 2026
+- `ICLR 2026` [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](), Fangyu Lei, Jinxiang Meng, Yiming Huang, Junjie zhao, Yitong Zhang, Jianwen Luo, Xin Zou, Ruiyi Yang, Wenbo Shi, Yan Gao, **Shizhu He**, Jun Zhao, Zuo Wang, Qian Liu, Yang Wang, Wang Ke, Kang Liu.
 - `AAAI 2026` [TaREx: Reinforcement Learning for Code-Driven Table Reasoning](), Fangyu Lei, Jinxiang Meng, Yiming Huang, **Shizhu He**, Jun Zhao,  Kang Liu.
 - `AAAI 2026` [QuarK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning](), Huanxuan Liao,  **Shizhu He**, Jun Zhao,  Kang Liu.
 - `AAAI 2026` [Seeing is Believing: Grounding Long-Video Understanding in Spatio-Temporal Visual Evidence](), Zhaoyang Wei, Guoliang Wang, Guohua Gao, Yanchao Hao, Mingda Li, Wenchao Ding, Xi Chen, **Shizhu He**, Xuehui Yu.

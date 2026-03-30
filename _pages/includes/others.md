@@ -4,7 +4,9 @@
 - *2008.09 - 2011.06*, <a href="https://www.jxnu.edu.cn/"><img class="svg" src="/images/jxnu_logo.png" width="20pt"></a> Jiangxi Normal University, School of Computer Information Engineering, Nanchang, Jiangxi, Master.
 
 
+
 # 🌴 Teaching
+- 2025-2026, Knowledge Engineering with Large Language Models (postgraduate), Zhongguancun Academy.
 - 2025-2026, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2024-2025, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
 - 2023-2024, Knowledge Engineering (undergraduate), University of Chinese Academy of Sciences.
