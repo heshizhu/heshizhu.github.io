@@ -1,6 +1,7 @@
 
 # 🌼 Honors and Awards
 ## ⛪ 获奖情况 (In Chinese)
+- 北京智源人工智能研究院智源青年学者, 2025.
 - [CCF自然语言处理专委会青年新锐奖](http://tcci.ccf.org.cn/award2025.php), 2025.
 - COLING 2025 神经符号论坛（NeusymBridge Workshop）最佳论文奖, 2025.
 - 美团科研合作基金卓越创新奖, 2023.
