@@ -8,10 +8,10 @@
 - `ACL 2026` [Shuttle Between Symbolic Instructions and Neural Parameters of Large Language Models](), Wangtao Sun, Haotian Xu, Huanxuan Liao, Xuanqing Yu, Zhongtao Jiang, **Shizhu He**, Jun Zhao, Kang Liu.
 - `ACL 2026` [GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](), Jianwen Luo, Yiming Huang, Jinxiang Meng, Fangyu Lei, **Shizhu He**, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu.
 - `ACL 2026` [Progressive Re-ranking for Multimodal Retrieval-Augmented Generation via Curriculum Learning](), Zhu Min, Yanchao Hao, Jian Liu, **Shizhu He**, Xi Chen.
-- `ICLR 2026` [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](), Fangyu Lei, Jinxiang Meng, Yiming Huang, Junjie zhao, Yitong Zhang, Jianwen Luo, Xin Zou, Ruiyi Yang, Wenbo Shi, Yan Gao, **Shizhu He**, Jun Zhao, Zuo Wang, Qian Liu, Yang Wang, Wang Ke, Kang Liu.
-- `AAAI 2026` [TaREx: Reinforcement Learning for Code-Driven Table Reasoning](), Fangyu Lei, Jinxiang Meng, Yiming Huang, **Shizhu He**, Jun Zhao,  Kang Liu.
-- `AAAI 2026` [QuarK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning](), Huanxuan Liao,  **Shizhu He**, Jun Zhao,  Kang Liu.
-- `AAAI 2026` [Seeing is Believing: Grounding Long-Video Understanding in Spatio-Temporal Visual Evidence](), Zhaoyang Wei, Guoliang Wang, Guohua Gao, Yanchao Hao, Mingda Li, Wenchao Ding, Xi Chen, **Shizhu He**, Xuehui Yu.
+- `ICLR 2026` [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](https://arxiv.org/abs/2512.04324), Fangyu Lei, Jinxiang Meng, Yiming Huang, Junjie zhao, Yitong Zhang, Jianwen Luo, Xin Zou, Ruiyi Yang, Wenbo Shi, Yan Gao, **Shizhu He**, Jun Zhao, Zuo Wang, Qian Liu, Yang Wang, Wang Ke, Kang Liu.
+- `AAAI 2026` [TaREx: Reinforcement Learning for Code-Driven Table Reasoning](https://ojs.aaai.org/index.php/AAAI/article/view/40415), Fangyu Lei, Jinxiang Meng, Yiming Huang, **Shizhu He**, Jun Zhao,  Kang Liu.
+- `AAAI 2026` [QuarK: Query-Aware Unstructured Sparsity with Recoverable KV Cache Channel Pruning](https://arxiv.org/abs/2508.15212), Huanxuan Liao,  **Shizhu He**, Jun Zhao,  Kang Liu.
+- `AAAI 2026` [Seeing is Believing: Grounding Long-Video Understanding in Spatio-Temporal Visual Evidence](https://ojs.aaai.org/index.php/AAAI/article/view/38031), Zhaoyang Wei, Guoliang Wang, Guohua Gao, Yanchao Hao, Mingda Li, Wenchao Ding, Xi Chen, **Shizhu He**, Xuehui Yu.
 
 
 ## 2025
