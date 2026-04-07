@@ -9,8 +9,7 @@
 - `ACL 2026` [Harmonizing the Past, Present, and Future: A Null-Space Constrained Region-Specific Method for Continual Learning in LLMs](), Jinhui Chen, **Shizhu He**, Xingchang Yang, Huanxuan Liao, Yequan Wang, Xiangwen Liao, Wenhao Teng, Kang Liu, Jun Zhao.
 - `ACL 2026` [Spectral Disentanglement: Rank-Aware Task Adaptation for Rehearsal-free Continual Learning in LLMs](), Huanxuan Liao, **Shizhu He**, Yupu Hao, Yequan Wang, Wenhao Teng, Xiangwen Liao, Jun Zhao, Kang Liu.
 - `ACL 2026` [Shuttle Between Symbolic Instructions and Neural Parameters of Large Language Models](), Wangtao Sun, Haotian Xu, Huanxuan Liao, Xuanqing Yu, Zhongtao Jiang, **Shizhu He**, Jun Zhao, Kang Liu.
-- `ACL 2026` [GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](), 	
-GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks. Jianwen Luo, Yiming Huang, Jinxiang Meng, Fangyu Lei, **Shizhu He**, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu.
+- `ACL 2026` [GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](), Jianwen Luo, Yiming Huang, Jinxiang Meng, Fangyu Lei, **Shizhu He**, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu.
 - `ACL 2026` [Progressive Re-ranking for Multimodal Retrieval-Augmented Generation via Curriculum Learning](), Zhu Min, Yanchao Hao, Jian Liu, **Shizhu He**, Xi Chen.
 - `ICLR 2026` [DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle](), Fangyu Lei, Jinxiang Meng, Yiming Huang, Junjie zhao, Yitong Zhang, Jianwen Luo, Xin Zou, Ruiyi Yang, Wenbo Shi, Yan Gao, **Shizhu He**, Jun Zhao, Zuo Wang, Qian Liu, Yang Wang, Wang Ke, Kang Liu.
 - `AAAI 2026` [TaREx: Reinforcement Learning for Code-Driven Table Reasoning](), Fangyu Lei, Jinxiang Meng, Yiming Huang, **Shizhu He**, Jun Zhao,  Kang Liu.
