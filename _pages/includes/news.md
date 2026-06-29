@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: 🎉 Two papers are accepted by ICML 2026.
 - *2026.04*: 🎉 Five papers are accepted by ACL 2026.
 - *2026.01*: 🎉 One paper is accepted by ICLR 2026.
 - *2025.12*: 🎉 I was selected as a **Zhiyuan Young Scholar** at the Beijing Academy of Artificial Intelligence (BAAI).
