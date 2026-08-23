@@ -5,6 +5,12 @@
 
 
 ## 2026
+- `EMNLP 2026` [SkillPyramid: A Hierarchical Skill Consolidation Framework for Self-Evolving Agents](), Yuan Xiong, Miao Ziqi, Chen Qian, Lijun Li, Yequan Wang, **Shizhu He**, Jun Zhao, Kang Liu.
+- `EMNLP 2026` [Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](), Yuqiao Tan, Minzheng Wang, **Shizhu He**, Huanxuan Liao, Chengfeng Zhao, Tian Liang, Jun Zhao, Kang Liu.
+- `EMNLP 2026 Findings` [Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering](), Chengfeng Zhao, Yuqiao Tan, **Shizhu He**, Yequan Wang, Jun Zhao, Kang Liu.
+- `EMNLP 2026 Findings` [Case-based Statute Retrieval for Multi-turn Legal Consultation with Fact-level and Rationale-level Mixed Evidence Graphs](), Wanli Wu, **Shizhu He**, Yanchao Hao, Jun Zhao, Kang Liu.
+- `EMNLP Demo` [MemTools: A Unified Research Framework for Interoperable Agent Memory](), Chengfeng Zhao, Jinhui Chen, Sirui Liang, **Shizhu He**, Yequan Wang, Jun Zhao, Kang Liu.
+- `NLPCC` [More Thinking Is Not Always Better: Structural and Semantic Factors of Complex Reasoning Tasks in LLMs](), Hui Jiang, **Shizhu He**, Kang Liu, Jun Zhao.
 - `ICML 2026` [Escaping the Subspace Trap: The Role of Optimizer Geometry in Model Width Expansion](), Jiabei Chen, Haoyu Wang, Yang Yu, Yao Xu, Liangdong Wang, Guang Liu, **Shizhu He**, Jun Zhao, Kang Liu.
 - `ICML 2026` [DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios](), Jinxiang Meng, Shaoping Huang, Fangyu Lei, Jingyu Guo, Haoxiang Liu, Jiahao Su, Sihan Wang, Yao Wang, Enrui Wang, Ye Yang, Hongze Chai, Jinming Lyu, Anbang Yu, Huangjing Zhang, Yitong Zhang, Yiming Huang, Zeyao Ma, **Shizhu He**, Jun Zhao, Kang Liu.
 - `ACL 2026` [Harmonizing the Past, Present, and Future: A Null-Space Constrained Region-Specific Method for Continual Learning in LLMs](), Jinhui Chen, **Shizhu He**, Xingchang Yang, Huanxuan Liao, Yequan Wang, Xiangwen Liao, Wenhao Teng, Kang Liu, Jun Zhao.
